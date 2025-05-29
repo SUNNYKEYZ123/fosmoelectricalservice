@@ -1,2 +1,2 @@
-# fosmoeletricalservice
+# fosmoelectricalservice
 Fosmo Electrical Service
